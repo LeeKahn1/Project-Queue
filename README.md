@@ -1,4 +1,5 @@
 # Project-Queue STD
+*One of my task project with Hadid Pilar G(group member)*
 ## STD Task
 *Kami membuat studi kasus Hadid adalah petugas ekspedisi bandara. hadid sedang mengalami masalah untuk mengatur keluar masuk nya cargo. Hadid menggunakan sistem queue buatannya untuk mengatasi masalah ini. 
 Data cargo terdiri dari nomor antrian, jenis,dan nama barang. Di setiap bandara cargo bisa keluar dan bisa masuk yg keluar duluan aadalah yg masuk duluan sesuai dengan antrian. cargo harus selalu di cek untuk menjaga keamanan nya. 
